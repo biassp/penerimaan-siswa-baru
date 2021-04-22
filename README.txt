@@ -33,10 +33,6 @@ b. Proses pembayaran Pendaftaran (Cicilan Pembayaran pendaftara + SPP Bulan ke 1
 4 - user sudah melunasi pembayaran pendaftaran
 
 
-*USER
-email 		: 	anggitprayogo@gmail.com
-password 	:	test
-
 
 *ADMIN
 email		: 	admin@gmail.com
